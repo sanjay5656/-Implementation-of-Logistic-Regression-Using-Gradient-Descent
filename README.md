@@ -13,15 +13,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 3. Define X and Y array.
 4. Plot the decision boundary and Predict the Regression value.
 
- 
- 
 
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by  : SANJAY S
-RegisterNumber: 22007761 
+RegisterNumber: 212221243002
 */
 
 import numpy as np
