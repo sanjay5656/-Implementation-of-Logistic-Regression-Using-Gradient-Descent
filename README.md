@@ -89,21 +89,13 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 
 ![ml5op1](https://user-images.githubusercontent.com/115128955/201039373-0cacd51a-bb75-4e4c-9d31-a65c144f5b2d.png)
-
 ![ml5op2](https://user-images.githubusercontent.com/115128955/201039414-8b2c1dfc-46a7-431f-adbd-4dfcd48ae068.png)
-
 ![ml5op3](https://user-images.githubusercontent.com/115128955/201039476-03232ab3-c583-42b8-ad09-fdd498d5f461.png)
-
 ![ml5op4](https://user-images.githubusercontent.com/115128955/201039518-5ee4e151-595d-48d3-9ad6-36506dc6fb93.png)
-
 ![ml5op5](https://user-images.githubusercontent.com/115128955/201039558-553b678e-b20f-40f5-85c9-47b3c7dde1f1.png)
-
 ![ml5op6](https://user-images.githubusercontent.com/115128955/201039583-8b3f2ff3-ddf9-4505-ac43-cfb73401cf5b.png)
-
 ![ml5op7](https://user-images.githubusercontent.com/115128955/201039691-27713d29-8fc8-469e-9363-84aa90b95e97.png)
-
 ![ml5op8](https://user-images.githubusercontent.com/115128955/201039887-9a52a8c2-3143-4bc3-ab33-9d685e790677.png)
-
 ![ml5op9](https://user-images.githubusercontent.com/115128955/201039964-2c2e6181-b49b-4c02-a7a8-3e15781ea34d.png)
 
 ## Result:
