@@ -13,15 +13,12 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 3. Define X and Y array.
 4. Plot the decision boundary and Predict the Regression value.
 
-
 ## Program:
-```
-/*
+```/*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by  : SANJAY S
 RegisterNumber: 212221243002
 */
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import optimize
@@ -95,7 +92,6 @@ def predict(theta,X):
     return (prob>=0.5).astype(int)
 np.mean(predict(res.x,X)==y)
 ```
-
 ## Output:
 
 ![ml5op1](https://user-images.githubusercontent.com/115128955/201039373-0cacd51a-bb75-4e4c-9d31-a65c144f5b2d.png)
@@ -115,7 +111,6 @@ np.mean(predict(res.x,X)==y)
 ![ml5op8](https://user-images.githubusercontent.com/115128955/201039887-9a52a8c2-3143-4bc3-ab33-9d685e790677.png)
 
 ![ml5op9](https://user-images.githubusercontent.com/115128955/201039964-2c2e6181-b49b-4c02-a7a8-3e15781ea34d.png)
-
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
